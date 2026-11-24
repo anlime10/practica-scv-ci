@@ -1,1 +1,1 @@
-Cambio desde main
+Conflicto resuelto: combinación de main y rama2
